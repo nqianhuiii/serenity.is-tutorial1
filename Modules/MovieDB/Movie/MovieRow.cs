@@ -61,6 +61,13 @@ public sealed class MovieRow : Row<MovieRow.RowFields>, IIdRow, INameRow
         set => fields.Runtime[this] = value;
     }
 
+    [DisplayName("Kind"), NotNull, DefaultValue(MovieKind.Film)]
+    public MovieKind? Kind
+    {
+        get => fields.Kind[this];
+        set => fields.Kind[this] = value;
+    }
+
     public class RowFields : RowFieldsBase
     {
         public Int32Field MovieId;
@@ -70,6 +77,6 @@ public sealed class MovieRow : Row<MovieRow.RowFields>, IIdRow, INameRow
         public Int32Field Year;
         public DateTimeField ReleaseDate;
         public Int32Field Runtime;
-
+        public EnumField<MovieKind> Kind;
     }
 }
