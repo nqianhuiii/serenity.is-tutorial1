@@ -973,6 +973,14 @@
       "PackagePath": "staticwebassets\\esm\\Modules\\Membership\\Account\\SignUp\\SignUpPage.js.map"
     },
     {
+      "Id": "C:\\Users\\User\\source\\repos\\MovieTutorial\\MovieTutorial\\MovieTutorial.Web\\wwwroot\\esm\\Modules\\MovieDB\\Genre\\GenrePage.js",
+      "PackagePath": "staticwebassets\\esm\\Modules\\MovieDB\\Genre\\GenrePage.js"
+    },
+    {
+      "Id": "C:\\Users\\User\\source\\repos\\MovieTutorial\\MovieTutorial\\MovieTutorial.Web\\wwwroot\\esm\\Modules\\MovieDB\\Genre\\GenrePage.js.map",
+      "PackagePath": "staticwebassets\\esm\\Modules\\MovieDB\\Genre\\GenrePage.js.map"
+    },
+    {
       "Id": "C:\\Users\\User\\source\\repos\\MovieTutorial\\MovieTutorial\\MovieTutorial.Web\\wwwroot\\esm\\Modules\\MovieDB\\Movie\\MoviePage.js",
       "PackagePath": "staticwebassets\\esm\\Modules\\MovieDB\\Movie\\MoviePage.js"
     },
@@ -1013,12 +1021,20 @@
       "PackagePath": "staticwebassets\\esm\\_chunks\\chunk-LYY77LWS.js.map"
     },
     {
-      "Id": "C:\\Users\\User\\source\\repos\\MovieTutorial\\MovieTutorial\\MovieTutorial.Web\\wwwroot\\esm\\_chunks\\chunk-MOOAJD23.js",
-      "PackagePath": "staticwebassets\\esm\\_chunks\\chunk-MOOAJD23.js"
+      "Id": "C:\\Users\\User\\source\\repos\\MovieTutorial\\MovieTutorial\\MovieTutorial.Web\\wwwroot\\esm\\_chunks\\chunk-OUFU5YMX.js",
+      "PackagePath": "staticwebassets\\esm\\_chunks\\chunk-OUFU5YMX.js"
     },
     {
-      "Id": "C:\\Users\\User\\source\\repos\\MovieTutorial\\MovieTutorial\\MovieTutorial.Web\\wwwroot\\esm\\_chunks\\chunk-MOOAJD23.js.map",
-      "PackagePath": "staticwebassets\\esm\\_chunks\\chunk-MOOAJD23.js.map"
+      "Id": "C:\\Users\\User\\source\\repos\\MovieTutorial\\MovieTutorial\\MovieTutorial.Web\\wwwroot\\esm\\_chunks\\chunk-OUFU5YMX.js.map",
+      "PackagePath": "staticwebassets\\esm\\_chunks\\chunk-OUFU5YMX.js.map"
+    },
+    {
+      "Id": "C:\\Users\\User\\source\\repos\\MovieTutorial\\MovieTutorial\\MovieTutorial.Web\\wwwroot\\esm\\_chunks\\chunk-ROX2B7F5.js",
+      "PackagePath": "staticwebassets\\esm\\_chunks\\chunk-ROX2B7F5.js"
+    },
+    {
+      "Id": "C:\\Users\\User\\source\\repos\\MovieTutorial\\MovieTutorial\\MovieTutorial.Web\\wwwroot\\esm\\_chunks\\chunk-ROX2B7F5.js.map",
+      "PackagePath": "staticwebassets\\esm\\_chunks\\chunk-ROX2B7F5.js.map"
     },
     {
       "Id": "C:\\Users\\User\\source\\repos\\MovieTutorial\\MovieTutorial\\MovieTutorial.Web\\wwwroot\\favicon.ico",

@@ -1,4 +1,5 @@
-﻿import { fieldsProxy } from "@serenity-is/corelib/q";
+﻿import { MovieKind } from "./MovieKind";
+import { fieldsProxy } from "@serenity-is/corelib/q";
 
 export interface MovieRow {
     MovieId?: number;
@@ -8,6 +9,9 @@ export interface MovieRow {
     Year?: number;
     ReleaseDate?: string;
     Runtime?: number;
+    Kind?: MovieKind;
+    GenreId?: number;
+    GenreName?: string;
 }
 
 export abstract class MovieRow {
