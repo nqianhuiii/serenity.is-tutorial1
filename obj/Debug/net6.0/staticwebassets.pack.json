@@ -989,52 +989,60 @@
       "PackagePath": "staticwebassets\\esm\\Modules\\MovieDB\\Movie\\MoviePage.js.map"
     },
     {
-      "Id": "C:\\Users\\User\\source\\repos\\MovieTutorial\\MovieTutorial\\MovieTutorial.Web\\wwwroot\\esm\\_chunks\\chunk-6SRMD2IN.js",
-      "PackagePath": "staticwebassets\\esm\\_chunks\\chunk-6SRMD2IN.js"
+      "Id": "C:\\Users\\User\\source\\repos\\MovieTutorial\\MovieTutorial\\MovieTutorial.Web\\wwwroot\\esm\\Modules\\MovieDB\\Person\\PersonPage.js",
+      "PackagePath": "staticwebassets\\esm\\Modules\\MovieDB\\Person\\PersonPage.js"
     },
     {
-      "Id": "C:\\Users\\User\\source\\repos\\MovieTutorial\\MovieTutorial\\MovieTutorial.Web\\wwwroot\\esm\\_chunks\\chunk-6SRMD2IN.js.map",
-      "PackagePath": "staticwebassets\\esm\\_chunks\\chunk-6SRMD2IN.js.map"
+      "Id": "C:\\Users\\User\\source\\repos\\MovieTutorial\\MovieTutorial\\MovieTutorial.Web\\wwwroot\\esm\\Modules\\MovieDB\\Person\\PersonPage.js.map",
+      "PackagePath": "staticwebassets\\esm\\Modules\\MovieDB\\Person\\PersonPage.js.map"
     },
     {
-      "Id": "C:\\Users\\User\\source\\repos\\MovieTutorial\\MovieTutorial\\MovieTutorial.Web\\wwwroot\\esm\\_chunks\\chunk-7BFCALLH.js",
-      "PackagePath": "staticwebassets\\esm\\_chunks\\chunk-7BFCALLH.js"
+      "Id": "C:\\Users\\User\\source\\repos\\MovieTutorial\\MovieTutorial\\MovieTutorial.Web\\wwwroot\\esm\\_chunks\\chunk-7EXCFDUN.js",
+      "PackagePath": "staticwebassets\\esm\\_chunks\\chunk-7EXCFDUN.js"
     },
     {
-      "Id": "C:\\Users\\User\\source\\repos\\MovieTutorial\\MovieTutorial\\MovieTutorial.Web\\wwwroot\\esm\\_chunks\\chunk-7BFCALLH.js.map",
-      "PackagePath": "staticwebassets\\esm\\_chunks\\chunk-7BFCALLH.js.map"
+      "Id": "C:\\Users\\User\\source\\repos\\MovieTutorial\\MovieTutorial\\MovieTutorial.Web\\wwwroot\\esm\\_chunks\\chunk-7EXCFDUN.js.map",
+      "PackagePath": "staticwebassets\\esm\\_chunks\\chunk-7EXCFDUN.js.map"
     },
     {
-      "Id": "C:\\Users\\User\\source\\repos\\MovieTutorial\\MovieTutorial\\MovieTutorial.Web\\wwwroot\\esm\\_chunks\\chunk-HABRETCW.js",
-      "PackagePath": "staticwebassets\\esm\\_chunks\\chunk-HABRETCW.js"
+      "Id": "C:\\Users\\User\\source\\repos\\MovieTutorial\\MovieTutorial\\MovieTutorial.Web\\wwwroot\\esm\\_chunks\\chunk-DZEAZ5MW.js",
+      "PackagePath": "staticwebassets\\esm\\_chunks\\chunk-DZEAZ5MW.js"
     },
     {
-      "Id": "C:\\Users\\User\\source\\repos\\MovieTutorial\\MovieTutorial\\MovieTutorial.Web\\wwwroot\\esm\\_chunks\\chunk-HABRETCW.js.map",
-      "PackagePath": "staticwebassets\\esm\\_chunks\\chunk-HABRETCW.js.map"
+      "Id": "C:\\Users\\User\\source\\repos\\MovieTutorial\\MovieTutorial\\MovieTutorial.Web\\wwwroot\\esm\\_chunks\\chunk-DZEAZ5MW.js.map",
+      "PackagePath": "staticwebassets\\esm\\_chunks\\chunk-DZEAZ5MW.js.map"
     },
     {
-      "Id": "C:\\Users\\User\\source\\repos\\MovieTutorial\\MovieTutorial\\MovieTutorial.Web\\wwwroot\\esm\\_chunks\\chunk-K3EI6ARL.js",
-      "PackagePath": "staticwebassets\\esm\\_chunks\\chunk-K3EI6ARL.js"
+      "Id": "C:\\Users\\User\\source\\repos\\MovieTutorial\\MovieTutorial\\MovieTutorial.Web\\wwwroot\\esm\\_chunks\\chunk-FEDAVPE7.js",
+      "PackagePath": "staticwebassets\\esm\\_chunks\\chunk-FEDAVPE7.js"
     },
     {
-      "Id": "C:\\Users\\User\\source\\repos\\MovieTutorial\\MovieTutorial\\MovieTutorial.Web\\wwwroot\\esm\\_chunks\\chunk-K3EI6ARL.js.map",
-      "PackagePath": "staticwebassets\\esm\\_chunks\\chunk-K3EI6ARL.js.map"
+      "Id": "C:\\Users\\User\\source\\repos\\MovieTutorial\\MovieTutorial\\MovieTutorial.Web\\wwwroot\\esm\\_chunks\\chunk-FEDAVPE7.js.map",
+      "PackagePath": "staticwebassets\\esm\\_chunks\\chunk-FEDAVPE7.js.map"
     },
     {
-      "Id": "C:\\Users\\User\\source\\repos\\MovieTutorial\\MovieTutorial\\MovieTutorial.Web\\wwwroot\\esm\\_chunks\\chunk-LJ7TVK7G.js",
-      "PackagePath": "staticwebassets\\esm\\_chunks\\chunk-LJ7TVK7G.js"
+      "Id": "C:\\Users\\User\\source\\repos\\MovieTutorial\\MovieTutorial\\MovieTutorial.Web\\wwwroot\\esm\\_chunks\\chunk-LDMIH4OQ.js",
+      "PackagePath": "staticwebassets\\esm\\_chunks\\chunk-LDMIH4OQ.js"
     },
     {
-      "Id": "C:\\Users\\User\\source\\repos\\MovieTutorial\\MovieTutorial\\MovieTutorial.Web\\wwwroot\\esm\\_chunks\\chunk-LJ7TVK7G.js.map",
-      "PackagePath": "staticwebassets\\esm\\_chunks\\chunk-LJ7TVK7G.js.map"
+      "Id": "C:\\Users\\User\\source\\repos\\MovieTutorial\\MovieTutorial\\MovieTutorial.Web\\wwwroot\\esm\\_chunks\\chunk-LDMIH4OQ.js.map",
+      "PackagePath": "staticwebassets\\esm\\_chunks\\chunk-LDMIH4OQ.js.map"
     },
     {
-      "Id": "C:\\Users\\User\\source\\repos\\MovieTutorial\\MovieTutorial\\MovieTutorial.Web\\wwwroot\\esm\\_chunks\\chunk-LYY77LWS.js",
-      "PackagePath": "staticwebassets\\esm\\_chunks\\chunk-LYY77LWS.js"
+      "Id": "C:\\Users\\User\\source\\repos\\MovieTutorial\\MovieTutorial\\MovieTutorial.Web\\wwwroot\\esm\\_chunks\\chunk-MP24BIJR.js",
+      "PackagePath": "staticwebassets\\esm\\_chunks\\chunk-MP24BIJR.js"
     },
     {
-      "Id": "C:\\Users\\User\\source\\repos\\MovieTutorial\\MovieTutorial\\MovieTutorial.Web\\wwwroot\\esm\\_chunks\\chunk-LYY77LWS.js.map",
-      "PackagePath": "staticwebassets\\esm\\_chunks\\chunk-LYY77LWS.js.map"
+      "Id": "C:\\Users\\User\\source\\repos\\MovieTutorial\\MovieTutorial\\MovieTutorial.Web\\wwwroot\\esm\\_chunks\\chunk-MP24BIJR.js.map",
+      "PackagePath": "staticwebassets\\esm\\_chunks\\chunk-MP24BIJR.js.map"
+    },
+    {
+      "Id": "C:\\Users\\User\\source\\repos\\MovieTutorial\\MovieTutorial\\MovieTutorial.Web\\wwwroot\\esm\\_chunks\\chunk-TTN34ZLS.js",
+      "PackagePath": "staticwebassets\\esm\\_chunks\\chunk-TTN34ZLS.js"
+    },
+    {
+      "Id": "C:\\Users\\User\\source\\repos\\MovieTutorial\\MovieTutorial\\MovieTutorial.Web\\wwwroot\\esm\\_chunks\\chunk-TTN34ZLS.js.map",
+      "PackagePath": "staticwebassets\\esm\\_chunks\\chunk-TTN34ZLS.js.map"
     },
     {
       "Id": "C:\\Users\\User\\source\\repos\\MovieTutorial\\MovieTutorial\\MovieTutorial.Web\\wwwroot\\favicon.ico",

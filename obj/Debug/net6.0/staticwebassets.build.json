@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "ZLLgFD/IbRm+0C+1YRtsZrD4g2QveDrG3cC5LB3EXh8=",
+  "Hash": "Pe4inmrbdaOkrhwXF42kKKCJLET/SZb8bJGbgxmmb48=",
   "Source": "MovieTutorial.Web",
   "BasePath": "_content/MovieTutorial.Web",
   "Mode": "Default",
@@ -12903,12 +12903,12 @@
       "OriginalItemSpec": "wwwroot\\Content\\site\\site.htmlcontent.css"
     },
     {
-      "Identity": "C:\\Users\\User\\source\\repos\\MovieTutorial\\MovieTutorial\\MovieTutorial.Web\\wwwroot\\esm\\_chunks\\chunk-6SRMD2IN.js",
+      "Identity": "C:\\Users\\User\\source\\repos\\MovieTutorial\\MovieTutorial\\MovieTutorial.Web\\wwwroot\\esm\\_chunks\\chunk-7EXCFDUN.js",
       "SourceId": "MovieTutorial.Web",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\User\\source\\repos\\MovieTutorial\\MovieTutorial\\MovieTutorial.Web\\wwwroot\\",
       "BasePath": "_content/MovieTutorial.Web",
-      "RelativePath": "esm/_chunks/chunk-6SRMD2IN.js",
+      "RelativePath": "esm/_chunks/chunk-7EXCFDUN.js",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Primary",
@@ -12917,15 +12917,15 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\esm\\_chunks\\chunk-6SRMD2IN.js"
+      "OriginalItemSpec": "wwwroot\\esm\\_chunks\\chunk-7EXCFDUN.js"
     },
     {
-      "Identity": "C:\\Users\\User\\source\\repos\\MovieTutorial\\MovieTutorial\\MovieTutorial.Web\\wwwroot\\esm\\_chunks\\chunk-6SRMD2IN.js.map",
+      "Identity": "C:\\Users\\User\\source\\repos\\MovieTutorial\\MovieTutorial\\MovieTutorial.Web\\wwwroot\\esm\\_chunks\\chunk-7EXCFDUN.js.map",
       "SourceId": "MovieTutorial.Web",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\User\\source\\repos\\MovieTutorial\\MovieTutorial\\MovieTutorial.Web\\wwwroot\\",
       "BasePath": "_content/MovieTutorial.Web",
-      "RelativePath": "esm/_chunks/chunk-6SRMD2IN.js.map",
+      "RelativePath": "esm/_chunks/chunk-7EXCFDUN.js.map",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Primary",
@@ -12934,15 +12934,15 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\esm\\_chunks\\chunk-6SRMD2IN.js.map"
+      "OriginalItemSpec": "wwwroot\\esm\\_chunks\\chunk-7EXCFDUN.js.map"
     },
     {
-      "Identity": "C:\\Users\\User\\source\\repos\\MovieTutorial\\MovieTutorial\\MovieTutorial.Web\\wwwroot\\esm\\_chunks\\chunk-7BFCALLH.js",
+      "Identity": "C:\\Users\\User\\source\\repos\\MovieTutorial\\MovieTutorial\\MovieTutorial.Web\\wwwroot\\esm\\_chunks\\chunk-DZEAZ5MW.js",
       "SourceId": "MovieTutorial.Web",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\User\\source\\repos\\MovieTutorial\\MovieTutorial\\MovieTutorial.Web\\wwwroot\\",
       "BasePath": "_content/MovieTutorial.Web",
-      "RelativePath": "esm/_chunks/chunk-7BFCALLH.js",
+      "RelativePath": "esm/_chunks/chunk-DZEAZ5MW.js",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Primary",
@@ -12951,15 +12951,15 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\esm\\_chunks\\chunk-7BFCALLH.js"
+      "OriginalItemSpec": "wwwroot\\esm\\_chunks\\chunk-DZEAZ5MW.js"
     },
     {
-      "Identity": "C:\\Users\\User\\source\\repos\\MovieTutorial\\MovieTutorial\\MovieTutorial.Web\\wwwroot\\esm\\_chunks\\chunk-7BFCALLH.js.map",
+      "Identity": "C:\\Users\\User\\source\\repos\\MovieTutorial\\MovieTutorial\\MovieTutorial.Web\\wwwroot\\esm\\_chunks\\chunk-DZEAZ5MW.js.map",
       "SourceId": "MovieTutorial.Web",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\User\\source\\repos\\MovieTutorial\\MovieTutorial\\MovieTutorial.Web\\wwwroot\\",
       "BasePath": "_content/MovieTutorial.Web",
-      "RelativePath": "esm/_chunks/chunk-7BFCALLH.js.map",
+      "RelativePath": "esm/_chunks/chunk-DZEAZ5MW.js.map",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Primary",
@@ -12968,15 +12968,15 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\esm\\_chunks\\chunk-7BFCALLH.js.map"
+      "OriginalItemSpec": "wwwroot\\esm\\_chunks\\chunk-DZEAZ5MW.js.map"
     },
     {
-      "Identity": "C:\\Users\\User\\source\\repos\\MovieTutorial\\MovieTutorial\\MovieTutorial.Web\\wwwroot\\esm\\_chunks\\chunk-HABRETCW.js",
+      "Identity": "C:\\Users\\User\\source\\repos\\MovieTutorial\\MovieTutorial\\MovieTutorial.Web\\wwwroot\\esm\\_chunks\\chunk-FEDAVPE7.js",
       "SourceId": "MovieTutorial.Web",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\User\\source\\repos\\MovieTutorial\\MovieTutorial\\MovieTutorial.Web\\wwwroot\\",
       "BasePath": "_content/MovieTutorial.Web",
-      "RelativePath": "esm/_chunks/chunk-HABRETCW.js",
+      "RelativePath": "esm/_chunks/chunk-FEDAVPE7.js",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Primary",
@@ -12985,15 +12985,15 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\esm\\_chunks\\chunk-HABRETCW.js"
+      "OriginalItemSpec": "wwwroot\\esm\\_chunks\\chunk-FEDAVPE7.js"
     },
     {
-      "Identity": "C:\\Users\\User\\source\\repos\\MovieTutorial\\MovieTutorial\\MovieTutorial.Web\\wwwroot\\esm\\_chunks\\chunk-HABRETCW.js.map",
+      "Identity": "C:\\Users\\User\\source\\repos\\MovieTutorial\\MovieTutorial\\MovieTutorial.Web\\wwwroot\\esm\\_chunks\\chunk-FEDAVPE7.js.map",
       "SourceId": "MovieTutorial.Web",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\User\\source\\repos\\MovieTutorial\\MovieTutorial\\MovieTutorial.Web\\wwwroot\\",
       "BasePath": "_content/MovieTutorial.Web",
-      "RelativePath": "esm/_chunks/chunk-HABRETCW.js.map",
+      "RelativePath": "esm/_chunks/chunk-FEDAVPE7.js.map",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Primary",
@@ -13002,15 +13002,15 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\esm\\_chunks\\chunk-HABRETCW.js.map"
+      "OriginalItemSpec": "wwwroot\\esm\\_chunks\\chunk-FEDAVPE7.js.map"
     },
     {
-      "Identity": "C:\\Users\\User\\source\\repos\\MovieTutorial\\MovieTutorial\\MovieTutorial.Web\\wwwroot\\esm\\_chunks\\chunk-K3EI6ARL.js",
+      "Identity": "C:\\Users\\User\\source\\repos\\MovieTutorial\\MovieTutorial\\MovieTutorial.Web\\wwwroot\\esm\\_chunks\\chunk-LDMIH4OQ.js",
       "SourceId": "MovieTutorial.Web",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\User\\source\\repos\\MovieTutorial\\MovieTutorial\\MovieTutorial.Web\\wwwroot\\",
       "BasePath": "_content/MovieTutorial.Web",
-      "RelativePath": "esm/_chunks/chunk-K3EI6ARL.js",
+      "RelativePath": "esm/_chunks/chunk-LDMIH4OQ.js",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Primary",
@@ -13019,15 +13019,15 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\esm\\_chunks\\chunk-K3EI6ARL.js"
+      "OriginalItemSpec": "wwwroot\\esm\\_chunks\\chunk-LDMIH4OQ.js"
     },
     {
-      "Identity": "C:\\Users\\User\\source\\repos\\MovieTutorial\\MovieTutorial\\MovieTutorial.Web\\wwwroot\\esm\\_chunks\\chunk-K3EI6ARL.js.map",
+      "Identity": "C:\\Users\\User\\source\\repos\\MovieTutorial\\MovieTutorial\\MovieTutorial.Web\\wwwroot\\esm\\_chunks\\chunk-LDMIH4OQ.js.map",
       "SourceId": "MovieTutorial.Web",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\User\\source\\repos\\MovieTutorial\\MovieTutorial\\MovieTutorial.Web\\wwwroot\\",
       "BasePath": "_content/MovieTutorial.Web",
-      "RelativePath": "esm/_chunks/chunk-K3EI6ARL.js.map",
+      "RelativePath": "esm/_chunks/chunk-LDMIH4OQ.js.map",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Primary",
@@ -13036,15 +13036,15 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\esm\\_chunks\\chunk-K3EI6ARL.js.map"
+      "OriginalItemSpec": "wwwroot\\esm\\_chunks\\chunk-LDMIH4OQ.js.map"
     },
     {
-      "Identity": "C:\\Users\\User\\source\\repos\\MovieTutorial\\MovieTutorial\\MovieTutorial.Web\\wwwroot\\esm\\_chunks\\chunk-LJ7TVK7G.js",
+      "Identity": "C:\\Users\\User\\source\\repos\\MovieTutorial\\MovieTutorial\\MovieTutorial.Web\\wwwroot\\esm\\_chunks\\chunk-MP24BIJR.js",
       "SourceId": "MovieTutorial.Web",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\User\\source\\repos\\MovieTutorial\\MovieTutorial\\MovieTutorial.Web\\wwwroot\\",
       "BasePath": "_content/MovieTutorial.Web",
-      "RelativePath": "esm/_chunks/chunk-LJ7TVK7G.js",
+      "RelativePath": "esm/_chunks/chunk-MP24BIJR.js",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Primary",
@@ -13053,15 +13053,15 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\esm\\_chunks\\chunk-LJ7TVK7G.js"
+      "OriginalItemSpec": "wwwroot\\esm\\_chunks\\chunk-MP24BIJR.js"
     },
     {
-      "Identity": "C:\\Users\\User\\source\\repos\\MovieTutorial\\MovieTutorial\\MovieTutorial.Web\\wwwroot\\esm\\_chunks\\chunk-LJ7TVK7G.js.map",
+      "Identity": "C:\\Users\\User\\source\\repos\\MovieTutorial\\MovieTutorial\\MovieTutorial.Web\\wwwroot\\esm\\_chunks\\chunk-MP24BIJR.js.map",
       "SourceId": "MovieTutorial.Web",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\User\\source\\repos\\MovieTutorial\\MovieTutorial\\MovieTutorial.Web\\wwwroot\\",
       "BasePath": "_content/MovieTutorial.Web",
-      "RelativePath": "esm/_chunks/chunk-LJ7TVK7G.js.map",
+      "RelativePath": "esm/_chunks/chunk-MP24BIJR.js.map",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Primary",
@@ -13070,15 +13070,15 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\esm\\_chunks\\chunk-LJ7TVK7G.js.map"
+      "OriginalItemSpec": "wwwroot\\esm\\_chunks\\chunk-MP24BIJR.js.map"
     },
     {
-      "Identity": "C:\\Users\\User\\source\\repos\\MovieTutorial\\MovieTutorial\\MovieTutorial.Web\\wwwroot\\esm\\_chunks\\chunk-LYY77LWS.js",
+      "Identity": "C:\\Users\\User\\source\\repos\\MovieTutorial\\MovieTutorial\\MovieTutorial.Web\\wwwroot\\esm\\_chunks\\chunk-TTN34ZLS.js",
       "SourceId": "MovieTutorial.Web",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\User\\source\\repos\\MovieTutorial\\MovieTutorial\\MovieTutorial.Web\\wwwroot\\",
       "BasePath": "_content/MovieTutorial.Web",
-      "RelativePath": "esm/_chunks/chunk-LYY77LWS.js",
+      "RelativePath": "esm/_chunks/chunk-TTN34ZLS.js",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Primary",
@@ -13087,15 +13087,15 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\esm\\_chunks\\chunk-LYY77LWS.js"
+      "OriginalItemSpec": "wwwroot\\esm\\_chunks\\chunk-TTN34ZLS.js"
     },
     {
-      "Identity": "C:\\Users\\User\\source\\repos\\MovieTutorial\\MovieTutorial\\MovieTutorial.Web\\wwwroot\\esm\\_chunks\\chunk-LYY77LWS.js.map",
+      "Identity": "C:\\Users\\User\\source\\repos\\MovieTutorial\\MovieTutorial\\MovieTutorial.Web\\wwwroot\\esm\\_chunks\\chunk-TTN34ZLS.js.map",
       "SourceId": "MovieTutorial.Web",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\User\\source\\repos\\MovieTutorial\\MovieTutorial\\MovieTutorial.Web\\wwwroot\\",
       "BasePath": "_content/MovieTutorial.Web",
-      "RelativePath": "esm/_chunks/chunk-LYY77LWS.js.map",
+      "RelativePath": "esm/_chunks/chunk-TTN34ZLS.js.map",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Primary",
@@ -13104,7 +13104,7 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\esm\\_chunks\\chunk-LYY77LWS.js.map"
+      "OriginalItemSpec": "wwwroot\\esm\\_chunks\\chunk-TTN34ZLS.js.map"
     },
     {
       "Identity": "C:\\Users\\User\\source\\repos\\MovieTutorial\\MovieTutorial\\MovieTutorial.Web\\wwwroot\\esm\\Modules\\Administration\\Language\\LanguagePage.js",
@@ -13513,6 +13513,40 @@
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\esm\\Modules\\MovieDB\\Movie\\MoviePage.js.map"
+    },
+    {
+      "Identity": "C:\\Users\\User\\source\\repos\\MovieTutorial\\MovieTutorial\\MovieTutorial.Web\\wwwroot\\esm\\Modules\\MovieDB\\Person\\PersonPage.js",
+      "SourceId": "MovieTutorial.Web",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\User\\source\\repos\\MovieTutorial\\MovieTutorial\\MovieTutorial.Web\\wwwroot\\",
+      "BasePath": "_content/MovieTutorial.Web",
+      "RelativePath": "esm/Modules/MovieDB/Person/PersonPage.js",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\esm\\Modules\\MovieDB\\Person\\PersonPage.js"
+    },
+    {
+      "Identity": "C:\\Users\\User\\source\\repos\\MovieTutorial\\MovieTutorial\\MovieTutorial.Web\\wwwroot\\esm\\Modules\\MovieDB\\Person\\PersonPage.js.map",
+      "SourceId": "MovieTutorial.Web",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\User\\source\\repos\\MovieTutorial\\MovieTutorial\\MovieTutorial.Web\\wwwroot\\",
+      "BasePath": "_content/MovieTutorial.Web",
+      "RelativePath": "esm/Modules/MovieDB/Person/PersonPage.js.map",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\esm\\Modules\\MovieDB\\Person\\PersonPage.js.map"
     },
     {
       "Identity": "C:\\Users\\User\\source\\repos\\MovieTutorial\\MovieTutorial\\MovieTutorial.Web\\wwwroot\\favicon.ico",

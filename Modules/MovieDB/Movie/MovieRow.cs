@@ -1,3 +1,4 @@
+using OfficeOpenXml.FormulaParsing.Excel.Functions.RefAndLookup;
 using Serenity.ComponentModel;
 using Serenity.Data;
 using Serenity.Data.Mapping;
@@ -77,16 +78,25 @@ public sealed class MovieRow : Row<MovieRow.RowFields>, IIdRow, INameRow
         get => fields.GenreList[this];
         set => fields.GenreList[this] = value;
     }
-    public class RowFields : RowFieldsBase
-    {
-        public Int32Field MovieId;
-        public StringField Title;
-        public StringField Description;
-        public StringField Storyline;
-        public Int32Field Year;
-        public DateTimeField ReleaseDate;
-        public Int32Field Runtime;
-        public EnumField<MovieKind> Kind;
-        public ListField<Int32> GenreList;
-    }
+
+    [DisplayName("Cast List"), NotMapped]
+    public List<MovieCastRow> CastList
+        {
+            get => fields.CastList[this];
+            set => fields.CastList[this] = value;
+        }
+        public class RowFields : RowFieldsBase
+        {
+            public Int32Field MovieId;
+            public StringField Title;
+            public StringField Description;
+            public StringField Storyline;
+            public Int32Field Year;
+            public DateTimeField ReleaseDate;
+            public Int32Field Runtime;
+            public EnumField<MovieKind> Kind;
+            public ListField<Int32> GenreList;
+            public RowListField<MovieCastRow> CastList;
+        }
+        
 }
